@@ -1,0 +1,28 @@
+# Vivado
+
+*.jou
+*.log
+*.str
+*.backup
+*.cache
+*.runs
+*.sim
+*.hw
+*.webtalk
+*.Xil
+*.wdb
+*.wcfg
+
+# OS
+
+Thumbs.db
+Desktop.ini
+
+# VSCode
+
+.vscode/
+
+# Temporary
+
+*.tmp
+*.swp
