@@ -242,37 +242,32 @@ As a result:
 
 ---
 
-# Repository Structure
 
+## Repository Structure
 
-fpga-pipelining-analysis/
-
+```text
+fpga-pipelining-analysis
+├── README.md
+├── .gitignore
 ├── constraints/
 │   └── baseline.xdc
-│
 ├── docs/
 │   ├── blog/
 │   ├── images/
 │   └── report/
-│
 ├── results/
 │   ├── baseline/
 │   ├── pipeline_2stage/
 │   └── pipeline_3stage/
-│
 ├── rtl/
 │   ├── baseline/
 │   ├── pipeline_2stage/
 │   └── pipeline_3stage/
-│
-├── tb/
-│   ├── baseline/
-│   ├── pipeline_2stage/
-│   └── pipeline_3stage/
-│
-├── README.md
-└── .gitignore
-
+└── tb/
+    ├── baseline/
+    ├── pipeline_2stage/
+    └── pipeline_3stage/
+```
 
 ---
 
