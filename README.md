@@ -298,6 +298,7 @@ This project demonstrates several important FPGA design concepts:
 - Timing reports should always be interpreted together with utilization and power reports to understand the complete design trade-off.
 
 ---
+[![Read on Medium](https://img.shields.io/badge/Medium-Read%20the%20article-black?logo=medium)](https://medium.com/@Psyduck_226/can-adding-registers-really-make-hardware-faster-43b365f1a493)
 
 ## License
 
